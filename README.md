@@ -11,4 +11,4 @@ Modes of funding:
 GNU software is funded by donations from individuals and organizations, as well as by sales of CDs, manuals, and merchandise. The Free Software Foundation (FSF) is the main organization that supports the development and promotion of GNU software. The FSF also provides legal assistance and education for free software users and developers.
 
 Commercial/Non-Commercial uses:
-GNU software can be used for any purpose, including commercial and non-commercial uses, without any restrictions. However, if a user or a company distributes or sells copies of GNU software, or incorporates it into other products or services, they must comply with the terms of the GPL and provide the source code and the license to the recipients5
+GNU software can be used for any purpose, including commercial and non-commercial uses, without any restrictions. However, if a user or a company distributes or sells copies of GNU software, or incorporates it into other products or services, they must comply with the terms of the GPL and provide the source code and the license to the recipients.
